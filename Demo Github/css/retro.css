@@ -31,7 +31,7 @@ main{
 section{
     width: 30%;
     min-width: 300px;
-    background: green;
+    background: rgb(42, 163, 207);
     margin: 10px;
     border: 2px solid black;
     border-radius: 12px;
